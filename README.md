@@ -10,7 +10,7 @@
 
 
 ## General Information
-- Elections - is your smart system to manage and to track elections results
+- Elections - is a smart system to manage and track elections results
 - The system tracking information about citizens, ballotboxes, candidate and parties
 - This project was made in our 1st year in OOP course
 - This project was through Eclipse and we used JavaFX
