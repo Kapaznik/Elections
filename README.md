@@ -44,3 +44,5 @@ Project is: _completed_
 
 ## Contact
 Created by [@Amir](https://www.linkedin.com/in/amir-peleg/)  - feel free to contact me!
+
+*Note: you might see Enum as Gibberish since they are written in Hebrew
